@@ -11,5 +11,8 @@
       <li>Run "terraform init" to initialise the directory, then "terraform apply" to deploy the EC2 instance.</li>
       <li>Access the Nginx web server by entering the instance's public IP address in a web browser.</li>
     </ol>
+    <div class="note">
+      <p><strong>Note:</strong> Make sure to use HTTP, not HTTPS, when accessing the public IP address. You can access the my Nginx web server by entering this URL in your web browser: <a href="http://44.204.122.85/">http://44.204.122.85/</a></p>
+    </div>
   </body>
 </html>
