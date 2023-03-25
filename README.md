@@ -1,5 +1,3 @@
-# AWS-EC2-Terraform
-
 <!DOCTYPE html>
 <html>
   <body>
